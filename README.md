@@ -5,7 +5,7 @@
 - [查看作品集 PDF](./portfolio2026.pdf)
 - [微云备用链接](https://share.weiyun.com/AyOBQZ1V)
 
-## Folios
+## VibeCoding项目1-Folios
 
 [在线体验 Folios](https://folios-rosy.vercel.app)
 
