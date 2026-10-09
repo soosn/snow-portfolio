@@ -2,7 +2,7 @@
 
 ## 个人作品集
 
-- [查看作品集 PDF](./portfolio.pdf)（待上传）
+- [查看作品集 PDF](./portfolio2026.pdf)
 - [微云备用链接](https://share.weiyun.com/AyOBQZ1V)
 
 ## Folios
